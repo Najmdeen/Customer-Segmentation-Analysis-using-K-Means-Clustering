@@ -33,7 +33,7 @@ Using the Annual Income and Spending Score columns, the bivariate clustering res
 
 The scatterplot for the bivariate clustering is shown below:
 
-Bivariate Clustering
+![Bivariate](bi_cluster.png)
 
 #### Multivariate Clustering
 Using the same columns for multivariate clustering, the results are summarized as follows
@@ -47,7 +47,7 @@ Using the same columns for multivariate clustering, the results are summarized a
 
 The scatterplot for the bivariate clustering is shown below:
 
-Multivariate Clustering
+![Multivariate](multi_cluster.png)
 
 ### Analysis
 Based on the scatterplot and clustering analysis:
